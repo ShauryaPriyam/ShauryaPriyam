@@ -11,6 +11,7 @@
 🔹 Passionate **MERN Developer** always eager to explore new technologies.  
 🔹 Strong interest in **Data Structures & Algorithms (DSA)** and **Open Source Contributions**.  
 🔹 Love building **dynamic, responsive** web applications and learning cutting-edge tech.  
+🔹 **Pursuing my education at IIT Ropar**, constantly growing in the tech field.  
 🔹 Open to **collaborations** and exciting new opportunities in Web Development.  
 
 ### 📫 Let's Connect  
